@@ -1,0 +1,21 @@
+#footer {
+    width: 100%;
+    padding: 0.5rem 0 0.5rem;     /* top-and-bottom left-and-right bottom*/
+    margin-top: 1.8rem;
+    height: 5rem;
+  }
+  
+  #footer small {
+    color: var(--primary-text-color);
+    font-size: 1.3rem;
+    font-family: var(--main-font);
+  }
+  
+  #footer small:hover {
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+  }
+  
+  #footer small:hover {
+    color: #054169;
+  }

@@ -1,0 +1,33 @@
+.user-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 300px;
+    margin: 0 auto;
+    background-image:url(https://img.freepik.com/premium-vector/blue-curve-frame-template_53876-174347.jpg?w=740) ;
+  }
+  
+  .user-card img {
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .user-card h2 {
+    margin-top: 0;
+  }
+  
+  .user-card p {
+    margin: 5px 0;
+  }
+  .button{
+    display: flex;
+    
+  }
+  .view-map{
+   width: fit-content;
+   margin:5px ;
+   background-color: rgb(170, 231, 250);
+   border-radius: 10px;
+  }
+  

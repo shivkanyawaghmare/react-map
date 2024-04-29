@@ -1,0 +1,39 @@
+/* Navbar.css */
+
+/* Custom styles for the navbar */
+
+#navbar {
+    background-color: #ffffff; /* Background color of the navbar */
+    border-bottom: 1px solid #dddddd; /* Bottom border of the navbar */
+    
+  }
+  .logo {
+    height: 40px; /* Adjust the height of the logo */
+    /* Add any additional logo styles here */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #333333; /* Text color of the navigation links */
+    margin-right: 15px; /* Adjust the right margin of the navigation links */
+  }
+  
+  .navbar-nav .nav-link.active {
+    font-weight: bold; /* Font weight of the active navigation link */
+  }
+  
+  .navbar-toggler {
+    border-color: #333333; /* Border color of the toggler button */
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #333333; /* Color of the toggler icon */
+  }
+  .nav-home{
+    height: fit-content;
+    margin: auto;
+  }
+  .nav-cp{
+    height: fit-content;
+    margin: auto;
+  }
+  

@@ -1,0 +1,21 @@
+.createpro{
+    border: solid;
+    width: 900px;
+    margin: auto;
+    border-color: white;
+    
+}
+.pr{
+    margin: 5px;
+    height: fit-content;
+}
+input{
+    width: 850px;
+}
+.input{
+    width: 850px;
+}
+.pr-name{
+margin-top: 100px;
+margin-bottom: 10px;
+}
