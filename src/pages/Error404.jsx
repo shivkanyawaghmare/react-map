@@ -8,7 +8,7 @@ export default function Error404() {
             <div className="ErrorMsg">
                 <h2 className="para-2">Welcome to Exploring Peoples and seeing their locations on map using React-map libraries
                 <br />
-                Maybe what you are looking for can be found at <strong><a href="/">explore</a></strong></h2>
+                Maybe what you are looking for can be found at <strong><a href="/explore">explore</a></strong></h2>
             </div>
         </div>
     )
